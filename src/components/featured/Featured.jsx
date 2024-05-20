@@ -1,9 +1,9 @@
 import React from 'react';
-import style from "./featured.module.css";
+import styles from "./featured.module.css";
 
 const Featured = () => {
     return (
-        <div className={style.container}>
+        <div className={styles.container}>
             Featured
         </div>
     );

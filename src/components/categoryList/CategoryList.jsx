@@ -1,9 +1,9 @@
 import React from 'react';
-import style from "./categoryList.module.css";
+import styles from "./categoryList.module.css";
 
 const CategoryList = () => {
     return (
-        <div className={style.container}>
+        <div className={styles.container}>
             categoryList
         </div>
     );

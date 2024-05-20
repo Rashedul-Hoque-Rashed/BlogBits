@@ -1,9 +1,9 @@
 import React from 'react';
-import style from './pagination.module.css';
+import styles from './pagination.module.css';
 
 const Pagination = () => {
     return (
-        <div className={style.container}>
+        <div className={styles.container}>
             pagination
         </div>
     );
