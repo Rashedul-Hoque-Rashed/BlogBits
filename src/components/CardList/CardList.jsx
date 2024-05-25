@@ -14,7 +14,6 @@ const CardList = async () => {
                 <Card />
                 <Card />
                 <Card />
-                <Card />
             </div>
             <Pagination />
         </div>

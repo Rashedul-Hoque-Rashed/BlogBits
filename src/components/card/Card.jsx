@@ -16,9 +16,9 @@ const Card = () => {
           <span className={styles.category}>Culture</span>
         </div>
         <Link href="/">
-          <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, consectetur.</h1>
+          <h1>Lorem ipsum dolor sit amet.</h1>
         </Link>
-        <p className={styles.desc}>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi quo at nihil quidem inventore reiciendis nesciunt consectetur placeat suscipit libero voluptatum veritatis unde ea dicta temporibus, perferendis tenetur beatae architecto!</p>
+        <p className={styles.desc}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet consequuntur enim minus nostrum cumque deleniti, magnam dolores officia ratione laborum.</p>
         {/* <div className={styles.desc} dangerouslySetInnerHTML={{ __html: item?.desc.substring(0,60) }}/> */}
         <Link href="/" className={styles.link}>
           Read More
