@@ -6,13 +6,13 @@ import { useEffect, useState } from "react";
 import "react-quill/dist/quill.bubble.css";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
-import {
-  getStorage,
-  ref,
-  uploadBytesResumable,
-  getDownloadURL,
-} from "firebase/storage";
-import { app } from "@/utils/firebase";
+// import {
+//   getStorage,
+//   ref,
+//   uploadBytesResumable,
+//   getDownloadURL,
+// } from "firebase/storage";
+// import { app } from "@/utils/firebase";
 import ReactQuill from "react-quill";
 
 const WritePage = () => {
